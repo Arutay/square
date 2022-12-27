@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int a1 = test.square(5);
+        System.out.println(a1);
+        System.out.println(a1 + 2);
     }
 }
